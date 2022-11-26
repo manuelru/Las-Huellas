@@ -6,18 +6,27 @@
 
         </div>
         <nav class="navegacio">
- 
-            <router-link  class="rutas" to="/"> Home </router-link>
-            <router-link  class="rutas" to="/products">Farmacia Veterinaria</router-link>
-            <router-link  class="rutas" to="/accesorios">Accesorios</router-link>
-            <router-link  class="rutas" to="/contactanos">Contactanos</router-link>
-            <router-link  class="rutas" to="/servicios">Servicios</router-link>
+        <div class="rutas"> <router-link to="/"> Home </router-link>  </div>
+        <div class="rutas"> <router-link  to="/products">Farmacia Veterinaria</router-link> </div>
+        <div class="rutas"> <router-link  to="/accesorios">Accesorios</router-link> </div>
+        <div class="rutas"> <router-link   to="/contactanos">Contactanos</router-link> </div>
+        <div class="rutas"> <router-link   to="/servicios">Servicios</router-link> </div>
         </nav>
 
     </section>
 
 </template>
 <style>
+.rutas a{
+    text-decoration: none;
+    border: 0;
+    padding: 0;
+}
+.rutas :hover{
+  color: white;
+}
+
+
 .logo{
     margin-left: 20px;
     width: 60px;
@@ -38,17 +47,59 @@
     font-size: 20px;
 }
 .rutas{
+    width: 20%;
     text-decoration: none;
     margin-left: 10%;
     color: black;
     font-size: 15px;
 }
+
 img{
     width: 50px;
 }
 .navegacio{
     width: 60%;
-    height: 40px;
+    height: 10vh;
     padding-top: 20px;
+    display: flex;
+}
+
+
+@media screen and (max-width: 1228px) {
+    .navegacio{
+        display: flex;
+        flex-wrap: wrap;  
+    }
+    .rutas{
+        width: 33%;
+    }
+    .sectionNavegacion{
+        height: 100px;
+    }
+
+
+
+}
+@media screen and (max-width: 400px) {
+    .navegacio{
+        display: flex;
+        flex-wrap: wrap;  
+        height: 400px;
+    }
+    .rutas{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+    .sectionNavegacion{
+        height: 400px;
+    }
+    .divLogo{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
 }
 </style>

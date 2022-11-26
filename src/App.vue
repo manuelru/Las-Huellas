@@ -12,7 +12,25 @@ import Footer from "./pages/Footer.vue"
   <Footer/>
 </template>
 <style>
+
+
+
+
 .nav{
   background-color: rgb(94, 159, 215);
+}
+@media screen and (max-width: 1228px) {
+  .nav{
+    height: 100px;
+  }
+
+
+}
+@media screen and (max-width: 400px) {
+  .nav{
+    height: 400px;
+
+  }
+
 }
 </style>

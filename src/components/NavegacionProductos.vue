@@ -26,4 +26,9 @@
     margin-left: 20%;
 
 }
+.navegacionCategorias a:hover{
+    color: white;
+}
+
+
 </style>

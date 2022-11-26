@@ -8,8 +8,11 @@
 
 
 </template>
-<script setup>
+<script>
+
 import Navi from "../components/NavegacionProductos.vue"
+
+
 </script>
 
 
