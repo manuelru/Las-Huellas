@@ -8,7 +8,6 @@ import Desparasitantes from "./pages/Desparasitantes.vue";
 import Accesorios from "./pages/Accesorios.vue"
 import Contactanos from "./pages/Contactanos.vue"
 import Servicios from "./pages/Servicios.vue"
-import ProductosVeterinarios from "./pages/Productosdetallados/ProductosVeterinarios.vue"
 
 const routes = [
   { path: "/", component: Home },
@@ -17,7 +16,6 @@ const routes = [
   { path: "/accesorios", component: Accesorios },
   { path: "/contactanos", component: Contactanos },
   { path: "/servicios", component: Servicios },
-  { path: "/productosVeterinarios", component: ProductosVeterinarios },
 ];
 
 const router = createRouter({
