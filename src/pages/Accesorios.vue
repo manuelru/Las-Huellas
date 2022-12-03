@@ -10,7 +10,7 @@
     
       <h1>ACCESORIOS</h1> 
       
-      <input type="text" v-model="buscar" class="form-control" placeholder="Ejemplo: Charmander"/>              
+      <input type="text" v-model="buscar" class="form-control" placeholder="Buscar"/>              
   
     </div>
   

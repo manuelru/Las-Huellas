@@ -21,7 +21,7 @@
     <div class="card mb-3">
       <img id="imgProductVeterinaria" class="card-img-top" v-bind:src="item.img" v-bind:alt="item.nombre">
       <div class="card-body">
-        <h3 class="card-title mb-3">{{ item.nombre }}</h3>
+        <h3 class="card-title mb-3">{{ item.nombre }} <button class="btnAgregar">Agregar</button></h3>
         <p class="card-text">
           <router-link   to="/productosVeterinarios">{{ item.descripcion }}  </router-link>
         </p>
@@ -60,6 +60,10 @@
     
     
 <style>
+.btnAgregar{
+  background-color: green;
+  border-radius: 10px;
+}
 .card-body{
         border:1px solid;
         height:200px;
