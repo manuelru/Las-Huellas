@@ -1,7 +1,6 @@
 <template>
     <Navi/>
     <router-vue></router-vue>
-             <!-- <img class="contac" src="../../public/servicio.png " alt="foto"/>  -->
   
     <div class="container cont">
   
