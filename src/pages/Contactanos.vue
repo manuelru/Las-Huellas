@@ -2,7 +2,7 @@
 <section class="templt">
     <h1>Contactanos</h1>
     
-        <img class="contac" src="../../public/servicio.png " alt="foto"/>
+         <!-- <img class="contac" src="../../public/servicio.png " alt="foto"/>  -->
     
     <h2>Contacto clinica veterinaria las Huellas</h2>
 
