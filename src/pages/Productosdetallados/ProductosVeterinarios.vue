@@ -18,17 +18,6 @@
 
   <div class="col-md-4" v-for="item in items" v-bind:key="item.id"> 
 
-    <div class="card mb-3">
-      <img id="imgProductVeterinaria" class="card-img-top" v-bind:src="item.img" v-bind:alt="item.nombre">
-      <div class="card-body">
-        <h3 class="card-title mb-3">{{ item.nombre }}</h3>
-        <p class="card-text">
-          <router-link   to="/productosVeterinarios">{{ item.descripcion }}  </router-link>
-        </p>
-
-      </div>
-    </div>
-
   </div>
 
 </div>
@@ -38,7 +27,12 @@
 
 
 <script>
-  import Datos from "../datos/Datos.json"
+  import Datos from "../../datos/Datos.json"
+
+  const arr = ['First item', 'Second item', 'Third item']
+  arr.push('Fourth item')
+
+console.log(arr);
 
   export default{
  data() {
@@ -53,7 +47,7 @@
      });
    },
 
- },
+ }
 }
 
 </script>

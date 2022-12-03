@@ -1,22 +1,24 @@
 <template>
-
-<Navi/>
-<router-view></router-view>
+     <Navi/>
+  <router-vue></router-vue>
+    <h4 class="tituloDesparasitantes">Vitaminas</h4>
+    
 
    
 
 
 
 </template>
-<script>
-
-import Navi from "../components/NavegacionProductos.vue"
+<script setup>
 
 
 </script>
 
 
 <style>
+.tituloDesparasitantes{
+  text-align: center;
+}
 #myDiv{
     height: 300px;
     border: 1px solid black;

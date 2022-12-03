@@ -17,7 +17,7 @@ import Footer from "./pages/Footer.vue"
 
 
 .nav{
-  background-color: rgb(94, 159, 215);
+  background-color: rgba(121,206,102,255);
 }
 @media screen and (max-width: 1228px) {
   .nav{
@@ -28,7 +28,7 @@ import Footer from "./pages/Footer.vue"
 }
 @media screen and (max-width: 400px) {
   .nav{
-    height: 400px;
+    height: 350px;
 
   }
 
