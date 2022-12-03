@@ -1,8 +1,8 @@
 [
     {
         "id":"1",
-        "nombre":"bandana para perro",
-        "categoria":"accesorio",
+        "nombre":"Bandana para perro",
+        "categoria":"Accesorio",
       
         "img":"public/nadada.png",
         "descripcion":"Bandanas navideñas para perros: Clásico diseño de cuadros con diseño de Navidad, Papá Noel, muñeco de nieve, apto para niñas y niños. Nacido para Navidad, haz que tu mascota se vea más a la moda y atractiva para las celebraciones de Navidad.Uso variado: La bufanda de perro para Navidad es ideal para fiestas de Navidad, uso diario, sesiones de fotos, fiestas de cosplay. La bandana para mascotas no solo sirve para vestir a tus mascotas, sino también para proteger a tus mascotas del babeo.."
@@ -10,8 +10,8 @@
 
    {
     "id":"2",
-    "nombre":"pelota",
-    "categoria":" accesorio Juguete",  
+    "nombre":"Pelota",
+    "categoria":" Accesorio Juguete",  
    "img":"public/pelota.jpg",
    "descripcion":"Otro de los más famosos y sencillos juguetes para perros. Es perfecto para que tanto nosotros como nuestra mascota disfrutemos juntos de una actividad, lo que ya de por sí supone grandes beneficios. Las pelotas suelen usarse para entrenar a nuestra mascota de forma que tras lanzarla a un lugar determinado, el perro vaya a buscarla y traerla hasta nuestra ubicación de nuevo para  volver a lanzarla a otro lugar."
  },
@@ -20,15 +20,15 @@
 
   "id":"3",
   "nombre":"Juguete para Perro Hueso Pack 4",
-  "categoria":" accesorio Juguete",
+  "categoria":" Accesorio Juguete",
   "img":"public/hueso.jpg",
   "descripcion":"Juguete en forma de hueso muy atractivo para nuestros compañeros de vida hará que la hora del juego sea distinta y más duradera para nuestras mascotas el juguete es de material de goma suave no toxico para la salud de nuestro engreídos y ayuda en la dentadura de nuestro compañero fiel."
 
  },
   {
      "ide":"4",
-     "nombre":"collar para gato",
-    "categoria":"accesorio",
+     "nombre":"Collar para gato",
+    "categoria":"Accesorio",
      "img":"public/collarg.jpg",
    "descripcion":"Idealmente elásticos, para que puedan adaptarse a su cuello sin presionarlo. Con doble cierre de seguridad. Este sistema permite que, en el caso de que tu gato se quede atrapado a causa del collar, con el simple hecho de estirar del collar, se abrirá directamente y tu gato quedará liberado."
 
@@ -37,16 +37,16 @@
     {
 
      "ide":"5",
-       "nombre":"sepillo de dientes para mascota",
-      "categoria":"accesorio",
+       "nombre":"Cepillo de dientes para mascota",
+      "categoria":"Accesorio",
         "img":"public/diente.jpg",
      "descripcion":"Un cepillo de dientes para perros es un dispositivo de mango largo que posee una cabecera con cerdas de nylon. Este aparato es importante para evitar el desarrollo de sarro y placa bacteriana en los dientes de los perros. No todos los cepillos son lo suficientemente largos para llegar hasta las molares de tu perro."
     },
     {
 
       "ide":"6",
-        "nombre":"peine",
-       "categoria":"accesorio",
+        "nombre":"Peine",
+       "categoria":"Accesorio",
          "img":"public/peine.jpg",
       "descripcion":"o olvides que la práctica de cepillar a tu perro debe incluirse en la rutina de higiene del animal y, con ella, conseguirás un perro más sano y con mejor aspecto."
      }

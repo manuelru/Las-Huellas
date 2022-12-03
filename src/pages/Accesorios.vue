@@ -23,13 +23,25 @@
       <div class="card mb-3">
         <img class="card-img-top" v-bind:src="item.img" v-bind:alt="item.nombre">
         <div class="card-body">
+          <div class="div1">
+          <div class="div2">
           <h3 class="card-title mb-3">{{ item.nombre }}</h3>
 
+
+          </div>
+         <div class="div3">
+            <button class="btnAgregar">Agregar a <br> la lista</button>
+
+          </div>
+
+ 
+        </div><h3 class="card-title mb-3">{{ item.nombre }}</h3>
+
           <p class="card-text">
-            <strong>categoria:</strong> {{ item.categoria }} 
+            <strong>Categoria:</strong> {{ item.categoria }} 
           </p>
           <p class="card-text">
-            <strong>descripcion</strong> {{ item.descripcion }} 
+            <strong>Descripcion</strong> {{ item.descripcion }} 
           </p>
   
         </div>
@@ -41,6 +53,13 @@
   
   </div>
   </template>
+<style>
+.card-img-top{
+  width: 60% !important;
+  margin: auto;
+}
+
+</style>
   
   
   <script>

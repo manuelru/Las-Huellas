@@ -2,17 +2,17 @@
   {
      "id":"1",
      "nombre":"Simparica",
-     "categoria":"desparasitante",
-   "tipo":"tabletas",
+     "categoria":"Desparasitante",
+   "tipo":"Tabletas",
    "tamaño":"80mg",
      "img":"public/amoxicilina.jpeg",
      "descripcion":"Simparica® es el antiparasitario externo en forma de tableta masticable que sí** protege a tu mascota de forma sostenida contra pulgas, garrapatas y sarnas, durante todo el tratamiento."
   },
   {
      "id":"2",
-     "nombre":"vetriden",
-     "categoria":"jabon dermatologico",
-     "tipo":"jabon",
+     "nombre":"Vetriden",
+     "categoria":"Jabon dermatologico",
+     "tipo":"Jabon",
      "tamaño":"100gr",
      "img":"public/vetridem.jpeg",
      "descripcion":"Shampoo dermatológico, anti alergénico para perros y gatos, capaz de eliminar restos de suciedad de la superficie, incluyendo aquellos que pueden actuar como alergenos tales como epitelios, restos de saliva y orina, etc. Rehidrata la piel ayuda a regular el PH. Antimicótico, contiene Aloe vera, avena y manzanilla."
@@ -21,17 +21,17 @@
   {
      "id":"3",
      "nombre":"Clindabone",
-     "categoria":"antibiotico",
-   "tipo":"tabletas",
+     "categoria":"Antibiotico",
+   "tipo":"Tabletas",
    "tamaño":"165mg",
      "img":"public/clindabone.jpeg",
      "descripcion":"Clindabone 165 mg: .Indicada para el tratamiento de perros y gatos para infecciones bucales, para el tratamiento de la osteomielitis en perros, para el tratamiento de piodermas en perros y para el tratamiento de la toxoplasmosis en perros y gatos."
   },
   {
      "id":"4",
-     "nombre":"diarrepas",
+     "nombre":"Diarrepas",
      "categoria":"Antidiareico",
-     "tipo":"suspension oral",
+     "tipo":"Suspension oral",
      "tamaño":"100ml",
      
      
@@ -59,18 +59,18 @@
   },
   {
      "id":"7",
-     "nombre":"amoxicilina",
+     "nombre":"Amoxicilina",
      "categoria":"para infecciones",
-     "tipo":"solucion inyectable",
+     "tipo":"Solucion inyectable",
      "tamaño":"100ml",
      "img":"public/amoxicilina.jpeg",
      "descripcion":"La amoxicilina pertenece a una clase de medicamentos llamados antibióticos similares a la penicilina. Su acción consiste en detener el crecimiento de las bacterias. Los antibióticos como la amoxicilina no actúan para combatir resfriados, influenza y otras infecciones virales."
   },
   {
      "id":"8",
-     "nombre":"vetipen",
+     "nombre":"Vetipen",
      "categoria":"Antimicrobiano",
-     "tipo":"suspension inyectable",
+     "tipo":"Suspension inyectable",
      "tamaño":"50ml",
      "img":"public/vetipen.jpeg",
      "descripcion":"Tratamiento de infecciones bacterianas, postoperatorias y/o secundarias a infecciones virales, locales o sistémicas, causadas por gérmenes sensibles a la asociación, Penicilinas G y Dihidroestreptomicina, localizadas en aparato digestivo, respiratorio, urogenital, piel y tejidos blandos. Bovinos, Ovinos y Caprinos: Abscesos cutáneos, actinomicosis, adenitis, artritis, neumonía y bronconeumonía, ántrax y ántrax sintomático, leptospirosis, enterotoxemia (por Clostridium perfringens), mastitis, metritis y pasteurelosis. Equinos: crup (Streptococcus equi), tétanos (Clostridium tetani), listeria (Listeria monocytogenes), artritis supurativa (Escherichia coli) y onfoflebitis (Staphylococcus genitalium) "
@@ -79,7 +79,7 @@
      "id":"9",
      "nombre":"Dermisolona",
      "categoria":"Antiinflamatorio",
-     "tipo":"tabletas",
+     "tipo":"Tabletas",
      "tamaño":"20mg",
      "img":"public/dermisolona.jpeg",
      "descripcion":"se indica como ayuda en el tratamiento de desórdenes inflamatorios y alérgicos en perros y gatos. En perros también está indicado como inmunosupresor en enfermedades autoinmunes, como terapia de la enfermedad inflamatoria intestinal crónica y en el tratamiento del hipoadrenocorticismo."

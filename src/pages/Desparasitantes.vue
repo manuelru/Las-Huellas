@@ -21,9 +21,30 @@
     <div class="card mb-3">
       <img id="imgProductVeterinaria" class="card-img-top" v-bind:src="item.img" v-bind:alt="item.nombre">
       <div class="card-body">
-        <h3 class="card-title mb-3">{{ item.nombre }} <button class="btnAgregar">Agregar</button></h3>
+        <div class="div1">
+          <div class="div2">
+          <h3 class="card-title mb-3">{{ item.nombre }}</h3>
+
+
+          </div>
+         <div class="div3">
+            <button class="btnAgregar">Agregar a <br> la lista</button>
+
+          </div>
+
+ 
+        </div>
         <p class="card-text">
-          <router-link   to="/productosVeterinarios">{{ item.descripcion }}  </router-link>
+          <strong>Categoria: </strong>{{ item.categoria }}
+        </p>
+        <p class="card-text">
+          <strong>Tipo: </strong> {{ item.tipo }}
+        </p>
+        <p class="card-text">
+          <strong>Tamaño: </strong> {{ item.tamaño }}
+        </p>
+        <p class="card-text">
+          {{ item.descripcion }}
         </p>
 
       </div>
@@ -60,9 +81,27 @@
     
     
 <style>
+.div1{
+  display: flex;
+}
+.div2{
+  width: 60%;
+}
+.div3{
+  width: 40%;
+  display: flex;
+}
 .btnAgregar{
   background-color: green;
   border-radius: 10px;
+  font-size: 15px;
+  color: white;
+  font-weight: 600;
+  margin-left: 10%;
+  margin: auto;
+}
+.btnAgregar:hover{
+  box-shadow: 0 0 15px rgb(101, 154, 215);
 }
 .card-body{
         border:1px solid;
