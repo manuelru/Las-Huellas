@@ -2,8 +2,6 @@
 <section class="templt">
     <h1>Contactanos</h1>
     
-         <!-- <img class="contac" src="../../public/servicio.png " alt="foto"/>  -->
-    
     <h2>Contacto clinica veterinaria las Huellas</h2>
 
     <Span><img class="icon" src="https://cdn-icons-png.flaticon.com/512/7382/7382751.png" alt=""> Direccion: Zona #1 del monumento del mercado 75 varas al sur Nueva Guinea  </Span>
