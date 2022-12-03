@@ -5,7 +5,7 @@
      "categoria":"Desparasitante",
    "tipo":"Tabletas",
    "tamaño":"80mg",
-     "img":"public/amoxicilina.jpeg",
+     "img":"/amoxicilina.jpeg",
      "descripcion":"Simparica® es el antiparasitario externo en forma de tableta masticable que sí** protege a tu mascota de forma sostenida contra pulgas, garrapatas y sarnas, durante todo el tratamiento."
   },
   {
@@ -14,7 +14,7 @@
      "categoria":"Jabon dermatologico",
      "tipo":"Jabon",
      "tamaño":"100gr",
-     "img":"public/vetridem.jpeg",
+     "img":"/vetridem.jpeg",
      "descripcion":"Shampoo dermatológico, anti alergénico para perros y gatos, capaz de eliminar restos de suciedad de la superficie, incluyendo aquellos que pueden actuar como alergenos tales como epitelios, restos de saliva y orina, etc. Rehidrata la piel ayuda a regular el PH. Antimicótico, contiene Aloe vera, avena y manzanilla."
 
   },
@@ -24,7 +24,7 @@
      "categoria":"Antibiotico",
    "tipo":"Tabletas",
    "tamaño":"165mg",
-     "img":"public/clindabone.jpeg",
+     "img":"/clindabone.jpeg",
      "descripcion":"Clindabone 165 mg: .Indicada para el tratamiento de perros y gatos para infecciones bucales, para el tratamiento de la osteomielitis en perros, para el tratamiento de piodermas en perros y para el tratamiento de la toxoplasmosis en perros y gatos."
   },
   {
@@ -35,7 +35,7 @@
      "tamaño":"100ml",
      
      
-     "img":"public/diarrepas.jpeg",
+     "img":"/diarrepas.jpeg",
      "descripcion":"Indicado en infecciones intestinales y cuadros diarreicos agudos o crónicos, ya que posee quimioterápicos protectores de mucosa. También evita la absorción de toxinas, gases y otras sustancias tóxicas de origen orgánico o inorgánico, que puedan complicar un cuadro diarreico."
      
   },
@@ -45,7 +45,7 @@
      "categoria":"Amoxicilina",
    "tipo":"Suspension oral",
    "tamaño":"30ml",
-     "img":"public/amoxin.jpeg",
+     "img":"/amoxin.jpeg",
      "descripcion":"Amoxin 100 está indicado para el tratamiento de infecciones de las vías respiratorias causadas por bacterias gram-positivas y gram-negativas sensibles a la amoxicilina. Antibiótico β-lactámico de amplio espectro con efecto bactericida adicionado de un mucolítico."
   },
   {
@@ -54,7 +54,7 @@
      "categoria":"Analgesico",
      "tipo":"Suspension oral",
      "tamaño":"20ml",
-     "img":"public/napex.jpeg",
+     "img":"/napex.jpeg",
      "descripcion":"Analgésico, antiinflamatorio y antipirético no esteroidal. NAXPET ® Comprimido Oral ANALGÉSICO, ANTIINFLAMATORIO Y ANTIPIRÉTICO NO ESTEROIDAL. Ficha Técnica ESPECIES Perros y gatos. FORMA FARMACÉUTICA Comprimido oral. ACCIÓN TERAPÉUTICA Analgésico, antiinflamatorio y antipirético no esteroidal. COMPOSICIÓN Cada comprimido contiene: Ketoprofeno....................10 mg Excipientes c.s.p.............1 comp. INDICACIONES Analgésico, antiinflamatorio y antipirético no esteroidal. VÍA DE ADMINISTRACIÓN Y DOSIS Vía oral. Dosis del principio activo: Perros: 1 mg/Kg una vez al día durante 5 días. Gatos: 1 mg/Kg una vez al día durante 5 días. Dosis del producto: 1 comprimido por cada 10 Kg de peso, en ambas especies. INTERACCIONES MEDICAMENTOSAS El uso simultáneo con otro AINE puede aumentar los efectos secundarios, como vómitos, diarrea y anorexia transitoria en perros y gatos. CONTRAINDICACIONES No usar en hembras gestantes o en lactancia ni en animales con úlceras gastrointestinales, daño hepático o renalsevero. ADVERTENCIAS Mantener fuera del alcance de los niños. CONSERVACIÓN Almacenar en un lugar fresco y seco, a temperatura ambiente entre 15° y 30°C. CONDICIÓN DE VENTA Venta bajo receta Médico Veterinaria. "
   },
   {
@@ -63,7 +63,7 @@
      "categoria":"para infecciones",
      "tipo":"Solucion inyectable",
      "tamaño":"100ml",
-     "img":"public/amoxicilina.jpeg",
+     "img":"/amoxicilina.jpeg",
      "descripcion":"La amoxicilina pertenece a una clase de medicamentos llamados antibióticos similares a la penicilina. Su acción consiste en detener el crecimiento de las bacterias. Los antibióticos como la amoxicilina no actúan para combatir resfriados, influenza y otras infecciones virales."
   },
   {
@@ -72,7 +72,7 @@
      "categoria":"Antimicrobiano",
      "tipo":"Suspension inyectable",
      "tamaño":"50ml",
-     "img":"public/vetipen.jpeg",
+     "img":"/vetipen.jpeg",
      "descripcion":"Tratamiento de infecciones bacterianas, postoperatorias y/o secundarias a infecciones virales, locales o sistémicas, causadas por gérmenes sensibles a la asociación, Penicilinas G y Dihidroestreptomicina, localizadas en aparato digestivo, respiratorio, urogenital, piel y tejidos blandos. Bovinos, Ovinos y Caprinos: Abscesos cutáneos, actinomicosis, adenitis, artritis, neumonía y bronconeumonía, ántrax y ántrax sintomático, leptospirosis, enterotoxemia (por Clostridium perfringens), mastitis, metritis y pasteurelosis. Equinos: crup (Streptococcus equi), tétanos (Clostridium tetani), listeria (Listeria monocytogenes), artritis supurativa (Escherichia coli) y onfoflebitis (Staphylococcus genitalium) "
   },
   {
@@ -81,7 +81,7 @@
      "categoria":"Antiinflamatorio",
      "tipo":"Tabletas",
      "tamaño":"20mg",
-     "img":"public/dermisolona.jpeg",
+     "img":"/dermisolona.jpeg",
      "descripcion":"se indica como ayuda en el tratamiento de desórdenes inflamatorios y alérgicos en perros y gatos. En perros también está indicado como inmunosupresor en enfermedades autoinmunes, como terapia de la enfermedad inflamatoria intestinal crónica y en el tratamiento del hipoadrenocorticismo."
 
   }
