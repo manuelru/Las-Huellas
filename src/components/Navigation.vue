@@ -1,7 +1,7 @@
 <template>
     <section class="sectionNavegacion">
         <div class="divLogo">
-            <div class="rutas"> <router-link to="/"> <img class="logo" src="../../public/logoproyectofina.jpeg" alt=""> </router-link>  </div>
+            <div class="rutas"> <router-link to="/"> <img class="logo" src="/logoproyectofina.jpeg" alt=""> </router-link>  </div>
             <router-link class="rutaName" to="/"> <p class="nameFarmacia">Las Huellas</p> </router-link>
             
 
@@ -37,7 +37,9 @@ import NavegacionPrincipalVue from '../pages/Navegacion/NavegacionPrincipal.vue'
 }
 .sectionNavegacion{
     display: flex;
-    height: 60px;
+    position: sticky;
+    top: 0;
+    z-index: 10; 
 }
 .divLogo{
     width: 40%;

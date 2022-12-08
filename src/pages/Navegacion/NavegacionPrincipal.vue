@@ -7,5 +7,4 @@
         <div class="rutas"> <router-link   to="/servicios">Servicios</router-link> </div>
          <router-link   to="/productosVeterinarios"></router-link> 
     </nav>
-</template>
-
+</template>  

@@ -2,8 +2,8 @@
     <div class="main">
 
         <div class="redesSociales">
-            <a href="https://wa.me/+50587037490"><img src="../../public/whatsapp.png" alt=""></a>
-            <a href="https://www.facebook.com/profile.php?id=100064180325848"><img src="../../public/facebook.png" alt=""></a>
+            <a target="_blank" href="https://wa.me/+50587037490"><img src="/whatsapp.png" alt=""></a>
+            <a target="_blank" href="https://www.facebook.com/profile.php?id=100064180325848"><img src="/facebook.png" alt=""></a>
         </div>
 
         <div class="footer">
@@ -18,6 +18,10 @@
 .main{
     display: flex;
     background-color: #30b18a;
+    position:fixed;
+   left:0px;
+   bottom:0px;
+   width:100%;
 }
 .footer{
     text-align: center;

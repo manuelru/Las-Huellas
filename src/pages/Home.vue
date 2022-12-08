@@ -24,7 +24,7 @@
 
 <style>
 .divMainHome{
-    background-image: url(../../public/bienvenida.jpg);
+    background-image: url(/bienvenida.jpg);
     background-repeat: no-repeat;
     height: 500px;
     background-size: cover;
